@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @jeofdetorres
 - 👀 I’m interested in Data Analytics, Data Science, and Data Engineering.
-- 🌱 I’m currently learning SQL, Python, Tableau, and Power BI. 
+- 🌱 I am skilled in SQL, Excel, Power Query, and Power BI.
+- 🌱 I am currently learning Tableau and Python. 
 - 💞️ I’m looking to collaborate on data analysis and dashboard projects.
 - 📫 Email me at jeofdetorres@yahoo.com.
 
